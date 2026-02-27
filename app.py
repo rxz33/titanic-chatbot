@@ -6,7 +6,7 @@ from pathlib import Path
 
 st.set_page_config(page_title="Titanic Chatbot", page_icon="🚢")
 
-st.title("🚢 Titanic Dataset Chatbot")
+st.title("Titanic Dataset Chatbot")
 st.write("Ask questions about Titanic passengers using natural language.")
 
 # Load dataset safely
