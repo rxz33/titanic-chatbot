@@ -26,6 +26,8 @@ Titanic Dataset Chat Agent Assignment.
 * Pandas – Data analysis and processing
 * Matplotlib & Seaborn – Data visualization
 
+---
+
 ## Note on Backend & Agent Framework 
 FastAPI and LangChain were explored during development for backend and agent-based reasoning.
 For deployment reliability on Streamlit Cloud, the final version embeds the analysis logic directly within the Streamlit application while preserving natural language query handling and visualization behavior.
@@ -113,5 +115,6 @@ streamlit run app.py
 ## 👩‍💻 Author
 
 ***Rashi Gupta***
+
 Backend & AI-focused Developer
 
